@@ -15,7 +15,7 @@ This is a multiplayer BINGO game application for Android. The app allows players
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sopho1/BINGO_Game.git
 2. Open the project in Android Studio.
 3. Sync the Gradle files.
 4. Build and run the app on an Android device or emulator.
