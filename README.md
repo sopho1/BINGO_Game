@@ -34,6 +34,3 @@ Enter your name in the Name activity if prompted.
 Connect to other players using the Connect activity.
 Host or join a game.
 Play BINGO by marking numbers on your card and aim to get five in a row (horizontally, vertically, or diagonally).
-
-## License
-This project is for educational purposes and is not licensed for commercial use.
